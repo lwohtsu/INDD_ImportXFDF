@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xfdf xmlns="http://ns.adobe.com/xfdf/" xml:space="preserve"
+><annots
+><text color="#FFD100" creationdate="D:20171231232040+09'00'" flags="print,nozoom,norotate" date="D:20171231232048+09'00'" name="53294356-61d1-4bc8-a062-c4da47df515f" icon="Comment" page="0" rect="285.981689,80.376953,303.981689,98.376953" subject="ノート注釈" title="ohtsu"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:18.9.0" xfa:spec="2.0.2"
+>
+          <p dir="ltr"
+>
+            <span dir="ltr" style="font-size:10.2pt;text-align:left;color:#000000;font-weight:normal;font-style:normal"
+>このへんに吹き出し</span
+>
+          </p
+>
+        </body
+></contents-richtext
+><popup flags="print,nozoom,norotate" open="yes" page="0" rect="515.906006,-43.623047,695.906006,98.376953"
+/></text
+><highlight color="#FFD100" creationdate="D:20171231232059+09'00'" flags="print" date="D:20171231232105+09'00'" name="9150cf7b-cfb5-42a3-997c-025e74d74f90" page="0" coords="185.669312,230.620178,452.834717,230.620178,185.669312,215.355057,452.834717,215.355057,56.692902,214.498108,240.944916,214.498108,56.692902,199.232986,240.944916,199.232986" rect="52.617844,198.755951,456.909790,231.097214" subject="ハイライト表示" title="ohtsu"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:18.9.0" xfa:spec="2.0.2"
+>
+          <p dir="ltr"
+>
+            <span dir="ltr" style="font-size:10.2pt;text-align:left;color:#000000;font-weight:normal;font-style:normal"
+>マーカー</span
+>
+          </p
+>
+        </body
+></contents-richtext
+><popup flags="print,nozoom,norotate" open="no" page="0" rect="515.906006,88.620178,695.906006,230.620178"
+/></highlight
+><square color="#E52237" creationdate="D:20180101192550+09'00'" flags="print" date="D:20180102020921+09'00'" name="73cd2049-d4f5-45a4-a7c9-adca6e0b41b0" page="0" fringe="0.500000,0.500000,0.500000,0.500000" rect="57.099838,623.576782,264.679993,678.519287" subject="長方形" title="ohtsu"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:18.9.0" xfa:spec="2.0.2"
+><p dir="ltr"
+><span dir="ltr" style="font-size:10.2pt;text-align:left;color:#000000;font-weight:normal;font-style:normal"
+>長方形にテキストを付けるとどうなる&#xD;</span
+></p
+></body
+></contents-richtext
+><popup flags="print,nozoom,norotate" open="no" page="0" rect="515.906006,536.019287,695.906006,678.019287"
+/></square
+><text color="#FFD100" creationdate="D:20180102020930+09'00'" flags="print,nozoom,norotate" inreplyto="73cd2049-d4f5-45a4-a7c9-adca6e0b41b0" date="D:20180102020930+09'00'" name="a9ea85e1-bf0e-40a3-80d1-55ce470ae0ed" icon="Comment" page="0" rect="57.099838,660.519287,75.099838,678.519287" subject="ノート注釈" title="ohtsu"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:18.9.0" xfa:spec="2.0.2"
+><p dir="ltr"
+><span dir="ltr" style="font-size:10.2pt;text-align:left;color:#000000;font-weight:normal;font-style:normal"
+>返信は？</span
+></p
+></body
+></contents-richtext
+><popup flags="print,nozoom,norotate" open="no" page="0" rect="515.906006,536.519287,695.906006,678.519287"
+/></text
+><ink color="#E52237" creationdate="D:20171231232255+09'00'" flags="print" date="D:20171231232255+09'00'" name="eb237401-b49e-49cf-b960-f4831d9f0e3e" page="1" rect="45.081680,288.197205,72.740326,328.745636" subject="鉛筆" title="ohtsu"
+><inklist
+><gesture
+>68.368942,327.745636;69.823608,320.836029;69.823608,320.472351;69.823608,320.108673;69.823608,319.745026;69.459946,319.745026;68.732620,319.745026;68.005280,319.745026;67.277954,319.745026;66.186966,320.108673;65.095963,320.108673;64.004974,320.108673;62.550308,320.108673;60.731995,320.108673;59.640991,320.108673;58.550003,320.108673;58.186340,320.108673;57.459015,320.108673;57.095337,320.108673;56.731674,320.108673;56.368011,320.108673;56.004349,320.108673;55.640686,320.108673;55.277023,320.108673;54.913361,320.108673;53.822357,319.745026;52.367706,319.745026;51.276703,319.381348;50.185715,319.017700;49.458389,319.017700;49.094727,319.017700;48.367386,318.654022;48.003723,318.654022;47.640060,318.654022;47.640060,318.290375;47.276398,318.290375;46.912735,317.563019;46.912735,316.835693;46.912735,315.744720;47.276398,315.017395;47.276398,313.199066;47.276398,311.744385;47.276398,309.926086;47.276398,308.471405;47.640060,307.016754;47.640060,305.925781;47.640060,304.834778;47.640060,304.107452;47.640060,303.743774;47.640060,303.380127;47.640060,303.016449;47.640060,302.652771;48.003723,302.289124;48.731064,302.289124;49.822052,302.289124;51.276703,302.289124;52.731369,302.652771;54.549698,302.652771;56.368011,302.652771;57.822678,302.652771;58.913666,302.652771;60.368332,302.652771;61.459320,302.652771;62.550308,302.652771;63.641312,302.652771;64.732300,302.289124;65.459625,302.289124;65.823303,302.289124;66.186966,302.289124;66.550629,302.289124;66.914291,302.289124;67.277954,302.289124;67.277954,301.925446;67.641617,301.561798;67.641617,300.834473;67.641617,300.107147;68.005280,299.016144;68.005280,298.288818;68.005280,297.197815;68.005280,296.470490;68.005280,295.379486;68.005280,294.652161;68.005280,293.924835;68.368942,293.561157;68.368942,293.197510;68.368942,292.833832;68.368942,292.470184;68.368942,292.106506;68.368942,291.742859;68.368942,291.379181;68.368942,291.015503;68.368942,290.651855;68.368942,290.288177;68.368942,289.924530;68.368942,289.560852;68.368942,289.197205</gesture
+></inklist
+><popup flags="print,nozoom,norotate" open="no" page="1" rect="1031.810059,185.745636,1211.810059,327.745636"
+/></ink
+><caret color="#0000FF" creationdate="D:20180102020836+09'00'" flags="print" date="D:20180102020842+09'00'" name="19b550ef-c9fa-4ec8-b6aa-cd52bdeeb107" page="2" fringe="0.855438,0.855469,0.855438,0.855469" rect="305.711884,627.258301,318.310333,637.523682" subject="挿入テキスト" title="ohtsu"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:18.9.0" xfa:spec="2.0.2"
+><p dir="ltr"
+><span dir="ltr" style="font-size:10.2pt;text-align:left;color:#000000;font-weight:normal;font-style:normal"
+>のかもしれないね</span
+></p
+></body
+></contents-richtext
+><popup flags="print,nozoom,norotate" open="no" page="2" rect="515.906006,494.668213,695.906006,636.668213"
+/></caret
+><strikeout color="#E52237" creationdate="D:20180102020825+09'00'" flags="print" date="D:20180102020825+09'00'" name="952afb2d-81f6-4ef1-91da-ff7e7eb39fe4" page="2" coords="185.669312,611.348511,222.519714,611.348511,185.669312,596.083374,222.519714,596.083374" rect="181.117218,595.129272,227.071808,612.302612" subject="取り消し線" title="ohtsu"
+><popup flags="print,nozoom,norotate" open="no" page="2" rect="515.906006,469.348511,695.906006,611.348511"
+/></strikeout
+><freetext color="#FCF485" creationdate="D:20180101180021+09'00'" flags="print" date="D:20180101180103+09'00'" name="3a54ea47-a014-4a64-91a7-40686831d99c" page="2" rect="48.269730,691.159180,182.574646,712.414063" subject="テキストボックス" title="ohtsu"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:18.9.0" xfa:spec="2.0.2" style="font-size:8.0pt;text-align:left;color:#E52136;font-weight:normal;font-style:normal;font-family:MSGothic;font-stretch:normal"
+><p dir="ltr"
+><span style="color:#E52138;font-family:'Myriad Pro'"
+>テキストをフセン風に貼ったもの</span
+></p
+></body
+></contents-richtext
+><defaultappearance
+>0 G 0.898 0.1333 0.2157 rg 0 Tc 0 Tw 100 Tz 0 TL 0 Ts 0 Tr /MyriadPro-Regular 8 Tf</defaultappearance
+><defaultstyle
+>font: 'Myriad Pro',sans-serif 8.0pt; text-align:left; color:#E52237 </defaultstyle
+></freetext
+><caret color="#0000FF" creationdate="D:20180102020804+09'00'" flags="print" IT="Replace" date="D:20180102020814+09'00'" name="17f0fe59-9531-473b-8bd2-987917ce6216" page="2" fringe="0.839600,0.839600,0.839600,0.839600" rect="124.211227,627.487915,136.576202,637.562988" subject="挿入テキスト" title="ohtsu"
+><contents-richtext
+><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:18.9.0" xfa:spec="2.0.2"
+><p dir="ltr"
+><span dir="ltr" style="font-size:10.2pt;text-align:left;color:#000000;font-weight:normal;font-style:normal"
+>山道をのぼりながら</span
+></p
+></body
+></contents-richtext
+><popup flags="print,nozoom,norotate" open="no" page="2" rect="515.906006,494.723389,695.906006,636.723389"
+/></caret
+><strikeout color="#0000FF" creationdate="D:20180102020804+09'00'" flags="print" inreplyto="17f0fe59-9531-473b-8bd2-987917ce6216" IT="StrikeOutTextEdit" date="D:20180102020804+09'00'" name="f19ead9b-6bea-476d-a459-c93d4b0beaea" page="2" coords="56.692902,643.592651,130.393707,643.592651,56.692902,628.327515,130.393707,628.327515" replyType="group" rect="52.140808,627.373413,134.945801,644.546753" subject="取り消し線" title="ohtsu"
+><popup flags="print,nozoom,norotate" open="no" page="2" rect="515.906006,501.592651,695.906006,643.592651"
+/></strikeout
+><strikeout color="#E52237" creationdate="D:20180101180312+09'00'" flags="print" date="D:20180101180312+09'00'" name="7d424f41-66fe-495c-88eb-8063ffe78872" page="3" coords="56.692902,417.883881,463.818878,417.883881,56.692902,402.618774,463.818878,402.618774,56.692902,401.761841,452.834717,401.761841,56.692902,386.496704,452.834717,386.496704,56.692902,385.639801,452.834717,385.639801,56.692902,370.374695,452.834717,370.374695,56.692902,369.517761,452.834717,369.517761,56.692902,354.252625,452.834717,354.252625,56.692902,353.395721,463.818848,353.395721,56.692902,338.130615,463.818848,338.130615,56.692902,337.273682,463.818878,337.273682,56.692902,322.008545,463.818878,322.008545,56.692902,321.151642,463.818878,321.151642,56.692902,305.886536,463.818878,305.886536,56.692902,305.029602,462.047333,305.029602,56.692902,289.764465,462.047333,289.764465,56.692902,288.907562,369.921326,288.907562,56.692902,273.642456,369.921326,273.642456" rect="52.140808,272.688385,468.370972,418.837952" subject="取り消し線" title="ohtsu"
+><popup flags="print,nozoom,norotate" open="no" page="3" rect="515.906006,275.883881,695.906006,417.883881"
+/></strikeout
+></annots
+><f href="スクリプトテストsingle.pdf"
+/><ids original="D32BFACBA46F674A84DEA9AED3CD6001" modified="2CFD056C7019BB4891CB22ED524E86C7"
+/></xfdf
+>
